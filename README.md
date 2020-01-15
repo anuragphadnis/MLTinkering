@@ -1,3 +1,4 @@
 # MLTinkering
 Tinkering with ML algorithms
-and doing it again
+
+Added only square function
